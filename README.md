@@ -14,7 +14,7 @@
   </h1>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inmortia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgotti)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Inmortia/Inmortia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
